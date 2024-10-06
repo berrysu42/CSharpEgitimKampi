@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/03_MakingDecision/03_MakingDecision.csproj
+/03_MakingDecision/03_MakingDecision.csproj
