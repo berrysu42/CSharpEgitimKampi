@@ -183,7 +183,39 @@ Bu metotlar, bir sonucu geri döndürmek için kullanılır. Örneğin, öğrenc
 # 📍 Proje 9: Veri Tabanlı Ürün-Kategori Bilgi Sistemi
  ## 🎯 Amaç
 Bu projede, C# programlama dili ve ADO.NET kütüphanesi kullanılarak basit bir veri tabanı uygulaması geliştirilmiştir. Proje, kullanıcıların ürünler ve kategoriler hakkında bilgi almasına olanak tanır. ADO.NET, C# dilinde SQL veri tabanları ile etkileşim kurmak için kullanılan bir çerçevedir.
+#
+# 📍 Proje 10: Veritabanı CRUD İşlemleri Projesi
+ ## 🎯 AmaçBu 
+ C# konsol uygulaması, SQL Server veritabanı üzerinde temel CRUD (Oluşturma, Okuma, Güncelleme, Silme) işlemlerini gerçekleştiren örnek bir projedir. Bu uygulama, veritabanına bağlanarak kategori ve ürün yönetimi işlemlerini yapabilmektedir (EgitimKampiDb veritabanı üzerinde).
 
+ ## 📋 Proje Özellikleri
+Bu uygulama, aşağıdaki işlemleri yapmanıza olanak sağlar:
+
+Yeni bir kategori ekleme
+Yeni bir ürün ekleme
+Ürünleri listeleme
+Ürün silme
+Ürün güncelleme
+## ⚙️ Gereksinimler
+Veritabanı: Proje, EgitimKampiDb adlı bir SQL Server veritabanına bağlanmaktadır.
+Tablolar:
+TblCategory: Kategorileri saklamak için kullanılır (örneğin, CategoryName sütunu).
+TblProduct: Ürün bilgilerini saklamak için kullanılır (örneğin, ProductName, ProductPrice, ProductStatus sütunları).
+## 🔧 CRUD İşlemleri
+Aşağıda her CRUD işlemi için açıklamalar ve kod örnekleri bulunmaktadır.
+## ➕ Yeni Kategori Ekleme
+Kategori Ekleme bölümü, TblCategory tablosuna yeni bir kategori eklemenizi sağlar.
+## ➕ Yeni Ürün Ekleme
+Ürün Ekleme bölümü, TblProduct tablosuna yeni bir ürün eklemenizi sağlar. Bu bölümde ürün adı ve fiyatı girilir.
+## 📋 Ürün Listeleme
+Ürün Listeleme bölümü, TblProduct tablosundaki tüm ürün kayıtlarını alır ve ekranda gösterir.
+## ❌ Ürün Silme
+Ürün Silme bölümü, belirtilen bir ürün kimliğine (ID) göre ürünü silmenize olanak tanır.
+## 🔄 Ürün Güncelleme
+Ürün Güncelleme bölümü, belirli bir ürün kimliğine (ID) göre ürün adı ve fiyatını güncellemenizi sağlar.
+
+## 📜 Sonuç
+Bu proje, C# dilinde ADO.NET kullanarak CRUD işlemlerinin nasıl yapılacağını gösteren pratik bir örnek sunmaktadır. Çoğu yazılım uygulaması için temel veritabanı yönetim tekniklerini sergiler. Bu kodu kendi veritabanı yapınıza ve ihtiyaçlarınıza göre uyarlayabilirsiniz!
 
 ## 🛠️ Kullanılan Teknolojiler
 
