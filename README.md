@@ -180,10 +180,11 @@ Void metotlar, belirli bir işlevi yerine getirmek için kullanılır. Örneğin
 ### Geriye Değer Döndüren Metotlar
 Bu metotlar, bir sonucu geri döndürmek için kullanılır. Örneğin, öğrencilerin sınav sonuçlarını hesaplayan bir metot, her öğrencinin notunu değerlendirip geçti veya kaldı şeklinde bir çıktı verebilir. Bu metotlar, hesaplamaları ve değerlendirmeleri daha sistematik bir şekilde yapmamıza olanak tanır.
 #
-# 📍 Proje 10: Veri Tabanlı Ürün-Kategori Bilgi Sistemi
+# 📍 Proje 9: Veri Tabanlı Ürün-Kategori Bilgi Sistemi
  ## 🎯 Amaç
 Bu projede, C# programlama dili ve ADO.NET kütüphanesi kullanılarak basit bir veri tabanı uygulaması geliştirilmiştir. Proje, kullanıcıların ürünler ve kategoriler hakkında bilgi almasına olanak tanır. ADO.NET, C# dilinde SQL veri tabanları ile etkileşim kurmak için kullanılan bir çerçevedir.
-# 📍 Proje 11: Veritabanı CRUD İşlemleri Projesi
+#
+# 📍 Proje 10: Veritabanı CRUD İşlemleri Projesi
  ## 🎯 AmaçBu C# konsol uygulaması, SQL Server veritabanı üzerinde temel CRUD (Oluşturma, Okuma, Güncelleme, Silme) işlemlerini gerçekleştiren örnek bir projedir. Bu uygulama, veritabanına bağlanarak kategori ve ürün yönetimi işlemlerini yapabilmektedir (EgitimKampiDb veritabanı üzerinde).
 
  ## 📋 Proje Özellikleri
