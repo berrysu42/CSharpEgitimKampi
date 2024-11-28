@@ -231,6 +231,7 @@ Bu proje, C# dilinde ADO.NET kullanarak CRUD işlemlerinin nasıl yapılacağın
 
 
 ##Bu görsel, C# eğitim kampında oluşturduğumuz İstatistik ekranını göstermektedir. Burada, Entity Framework kullanarak gerçekleştirdiğimiz istatistiksel sorgular yer almaktadır. Ayrıca, konuyu pekiştirmek amacıyla kendi oluşturduğum sorgu da eklenmiştir.
+![image alt](https://github.com/berrysu42/CSharpEgitimKampi/blob/3b44ddc245ca97994880e77cace026acb304e4fc/Entity%20Framework.png)
 
 
 
