@@ -230,6 +230,8 @@ Bu proje, C# dilinde ADO.NET kullanarak CRUD işlemlerinin nasıl yapılacağın
 - **Dinamik Veri Görüntüleme**: Kullanıcıdan alınan girişlere göre veriler dinamik olarak ekrana yazdırılmaktadır.
 
 
+##Bu görsel, C# eğitim kampında oluşturduğumuz İstatistik ekranını göstermektedir. Burada, Entity Framework kullanarak gerçekleştirdiğimiz istatistiksel sorgular yer almaktadır. Ayrıca, konuyu pekiştirmek amacıyla kendi oluşturduğum sorgu da eklenmiştir.
+
 
 
 ## Katkıda Bulunanlar
@@ -237,5 +239,6 @@ Bu proje, C# dilinde ADO.NET kullanarak CRUD işlemlerinin nasıl yapılacağın
 - ## 📧 İletişim
 
 Herhangi bir sorunuz veya öneriniz varsa benimle iletişime geçebilirsiniz.
+
 
 
